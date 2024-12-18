@@ -1,0 +1,75 @@
+C:\Users\osman\source\repos\Ayçiçeği Pansiyon Uygulaması v1.0\Ayçiçeği Pansiyon Uygulaması v1.0\bin\Debug\Ayçiçeği Pansiyon Uygulaması v1.0.exe.config
+C:\Users\osman\source\repos\Ayçiçeği Pansiyon Uygulaması v1.0\Ayçiçeği Pansiyon Uygulaması v1.0\bin\Debug\Ayçiçeği Pansiyon Uygulaması v1.0.exe
+C:\Users\osman\source\repos\Ayçiçeği Pansiyon Uygulaması v1.0\Ayçiçeği Pansiyon Uygulaması v1.0\bin\Debug\Ayçiçeği Pansiyon Uygulaması v1.0.pdb
+C:\Users\osman\source\repos\Ayçiçeği Pansiyon Uygulaması v1.0\Ayçiçeği Pansiyon Uygulaması v1.0\obj\Debug\Ayçiçeği Pansiyon Uygulaması v1.0.csproj.AssemblyReference.cache
+C:\Users\osman\source\repos\Ayçiçeği Pansiyon Uygulaması v1.0\Ayçiçeği Pansiyon Uygulaması v1.0\obj\Debug\Ayçiçeği_Pansiyon_Uygulaması_v1._0.Properties.Resources.resources
+C:\Users\osman\source\repos\Ayçiçeği Pansiyon Uygulaması v1.0\Ayçiçeği Pansiyon Uygulaması v1.0\obj\Debug\Ayçiçeği Pansiyon Uygulaması v1.0.csproj.GenerateResource.cache
+C:\Users\osman\source\repos\Ayçiçeği Pansiyon Uygulaması v1.0\Ayçiçeği Pansiyon Uygulaması v1.0\obj\Debug\Ayçiçeği Pansiyon Uygulaması v1.0.csproj.CoreCompileInputs.cache
+C:\Users\osman\source\repos\Ayçiçeği Pansiyon Uygulaması v1.0\Ayçiçeği Pansiyon Uygulaması v1.0\obj\Debug\Ayçiçeği Pansiyon Uygulaması v1.0.exe
+C:\Users\osman\source\repos\Ayçiçeği Pansiyon Uygulaması v1.0\Ayçiçeği Pansiyon Uygulaması v1.0\obj\Debug\Ayçiçeği Pansiyon Uygulaması v1.0.pdb
+C:\Users\osman\source\repos\Ayçiçeği Pansiyon Uygulaması v1.0\Ayçiçeği Pansiyon Uygulaması v1.0\obj\Debug\Ayçiçeği_Pansiyon_Uygulaması_v1._0.FrmYeniMusteri.resources
+C:\Users\osman\source\repos\Ayçiçeği Pansiyon Uygulaması v1.0\Ayçiçeği Pansiyon Uygulaması v1.0\obj\Debug\Ayçiçeği_Pansiyon_Uygulaması_v1._0.FrmAdminGiris.resources
+C:\Users\osman\source\repos\Ayçiçeği Pansiyon Uygulaması v1.0\Ayçiçeği Pansiyon Uygulaması v1.0\obj\Debug\Ayçiçeği_Pansiyon_Uygulaması_v1._0.FrmAnaForm.resources
+C:\Users\osman\source\repos\Ayçiçeği Pansiyon Uygulaması v1.0\Ayçiçeği Pansiyon Uygulaması v1.0\obj\Debug\Ayçiçeği_Pansiyon_Uygulaması_v1._0.FrmOdalar.resources
+C:\Users\osman\source\repos\Ayçiçeği Pansiyon Uygulaması v1.0\Ayçiçeği Pansiyon Uygulaması v1.0\obj\Debug\Ayçiçeği_Pansiyon_Uygulaması_v1._0.FrmMusteriler.resources
+C:\Users\osman\source\repos\Ayçiçeği Pansiyon Uygulaması v1.0\Ayçiçeği Pansiyon Uygulaması v1.0\obj\Debug\Ayçiçeği_Pansiyon_Uygulaması_v1._0.frmGelirGider.resources
+C:\Users\osman\source\repos\Ayçiçeği Pansiyon Uygulaması v1.0\Ayçiçeği Pansiyon Uygulaması v1.0\obj\Debug\Ayçiçeği_Pansiyon_Uygulaması_v1._0.frmStoklar.resources
+C:\Users\osman\source\repos\Ayçiçeği Pansiyon Uygulaması v1.0\Ayçiçeği Pansiyon Uygulaması v1.0\bin\Debug\Interop.WMPLib.dll
+C:\Users\osman\source\repos\Ayçiçeği Pansiyon Uygulaması v1.0\Ayçiçeği Pansiyon Uygulaması v1.0\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\osman\source\repos\Ayçiçeği Pansiyon Uygulaması v1.0\Ayçiçeği Pansiyon Uygulaması v1.0\obj\Debug\Interop.WMPLib.dll
+C:\Users\osman\source\repos\Ayçiçeği Pansiyon Uygulaması v1.0\Ayçiçeği Pansiyon Uygulaması v1.0\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\osman\source\repos\Ayçiçeği Pansiyon Uygulaması v1.0\Ayçiçeği Pansiyon Uygulaması v1.0\obj\Debug\Ayçiçeği Pansiyon Uygulaması v1.0.csproj.ResolveComReference.cache
+C:\Users\osman\source\repos\Ayçiçeği Pansiyon Uygulaması v1.0\Ayçiçeği Pansiyon Uygulaması v1.0\obj\Debug\Ayçiçeği_Pansiyon_Uygulaması_v1._0.frmRadyoDinle.resources
+C:\Users\osman\source\repos\Ayçiçeği Pansiyon Uygulaması v1.0\Ayçiçeği Pansiyon Uygulaması v1.0\obj\Debug\Ayçiçeği_Pansiyon_Uygulaması_v1._0.frmGazete.resources
+C:\Users\osman\source\repos\Ayçiçeği Pansiyon Uygulaması v1.0\Ayçiçeği Pansiyon Uygulaması v1.0\obj\Debug\Ayçiçeği_Pansiyon_Uygulaması_v1._0.frmSifreGuncelle.resources
+C:\Users\osman\source\repos\Ayçiçeği Pansiyon Uygulaması v1.0\Ayçiçeği Pansiyon Uygulaması v1.0\obj\Debug\Ayçiçeği_Pansiyon_Uygulaması_v1._0.frmMesajlar.resources
+C:\Users\hamza\OneDrive\Masaüstü\ödev3\Ayçiçeği Pansiyon Uygulaması v1.0\Ayçiçeği Pansiyon Uygulaması v1.0\obj\Debug\Ayçiçeği Pansiyon Uygulaması v1.0.csproj.AssemblyReference.cache
+C:\Users\hamza\OneDrive\Masaüstü\ödev3\Ayçiçeği Pansiyon Uygulaması v1.0\Ayçiçeği Pansiyon Uygulaması v1.0\obj\Debug\Interop.WMPLib.dll
+C:\Users\hamza\OneDrive\Masaüstü\ödev3\Ayçiçeği Pansiyon Uygulaması v1.0\Ayçiçeği Pansiyon Uygulaması v1.0\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\hamza\OneDrive\Masaüstü\ödev3\Ayçiçeği Pansiyon Uygulaması v1.0\Ayçiçeği Pansiyon Uygulaması v1.0\obj\Debug\Ayçiçeği Pansiyon Uygulaması v1.0.csproj.ResolveComReference.cache
+C:\Users\hamza\OneDrive\Masaüstü\ödev3\Ayçiçeği Pansiyon Uygulaması v1.0\Ayçiçeği Pansiyon Uygulaması v1.0\obj\Debug\Ayçiçeği_Pansiyon_Uygulaması_v1._0.FrmAdminGiris.resources
+C:\Users\hamza\OneDrive\Masaüstü\ödev3\Ayçiçeği Pansiyon Uygulaması v1.0\Ayçiçeği Pansiyon Uygulaması v1.0\obj\Debug\Ayçiçeği_Pansiyon_Uygulaması_v1._0.FrmAnaForm.resources
+C:\Users\hamza\OneDrive\Masaüstü\ödev3\Ayçiçeği Pansiyon Uygulaması v1.0\Ayçiçeği Pansiyon Uygulaması v1.0\obj\Debug\Ayçiçeği_Pansiyon_Uygulaması_v1._0.frmGazete.resources
+C:\Users\hamza\OneDrive\Masaüstü\ödev3\Ayçiçeği Pansiyon Uygulaması v1.0\Ayçiçeği Pansiyon Uygulaması v1.0\obj\Debug\Ayçiçeği_Pansiyon_Uygulaması_v1._0.frmGelirGider.resources
+C:\Users\hamza\OneDrive\Masaüstü\ödev3\Ayçiçeği Pansiyon Uygulaması v1.0\Ayçiçeği Pansiyon Uygulaması v1.0\obj\Debug\Ayçiçeği_Pansiyon_Uygulaması_v1._0.frmMesajlar.resources
+C:\Users\hamza\OneDrive\Masaüstü\ödev3\Ayçiçeği Pansiyon Uygulaması v1.0\Ayçiçeği Pansiyon Uygulaması v1.0\obj\Debug\Ayçiçeği_Pansiyon_Uygulaması_v1._0.FrmMusteriler.resources
+C:\Users\hamza\OneDrive\Masaüstü\ödev3\Ayçiçeği Pansiyon Uygulaması v1.0\Ayçiçeği Pansiyon Uygulaması v1.0\obj\Debug\Ayçiçeği_Pansiyon_Uygulaması_v1._0.FrmOdalar.resources
+C:\Users\hamza\OneDrive\Masaüstü\ödev3\Ayçiçeği Pansiyon Uygulaması v1.0\Ayçiçeği Pansiyon Uygulaması v1.0\obj\Debug\Ayçiçeği_Pansiyon_Uygulaması_v1._0.frmRadyoDinle.resources
+C:\Users\hamza\OneDrive\Masaüstü\ödev3\Ayçiçeği Pansiyon Uygulaması v1.0\Ayçiçeği Pansiyon Uygulaması v1.0\obj\Debug\Ayçiçeği_Pansiyon_Uygulaması_v1._0.frmSifreGuncelle.resources
+C:\Users\hamza\OneDrive\Masaüstü\ödev3\Ayçiçeği Pansiyon Uygulaması v1.0\Ayçiçeği Pansiyon Uygulaması v1.0\obj\Debug\Ayçiçeği_Pansiyon_Uygulaması_v1._0.frmStoklar.resources
+C:\Users\hamza\OneDrive\Masaüstü\ödev3\Ayçiçeği Pansiyon Uygulaması v1.0\Ayçiçeği Pansiyon Uygulaması v1.0\obj\Debug\Ayçiçeği_Pansiyon_Uygulaması_v1._0.FrmYeniMusteri.resources
+C:\Users\hamza\OneDrive\Masaüstü\ödev3\Ayçiçeği Pansiyon Uygulaması v1.0\Ayçiçeği Pansiyon Uygulaması v1.0\obj\Debug\Ayçiçeği_Pansiyon_Uygulaması_v1._0.Properties.Resources.resources
+C:\Users\hamza\OneDrive\Masaüstü\ödev3\Ayçiçeği Pansiyon Uygulaması v1.0\Ayçiçeği Pansiyon Uygulaması v1.0\obj\Debug\Ayçiçeği Pansiyon Uygulaması v1.0.csproj.GenerateResource.cache
+C:\Users\hamza\OneDrive\Masaüstü\ödev3\Ayçiçeği Pansiyon Uygulaması v1.0\Ayçiçeği Pansiyon Uygulaması v1.0\obj\Debug\Ayçiçeği Pansiyon Uygulaması v1.0.csproj.CoreCompileInputs.cache
+C:\Users\hamza\OneDrive\Masaüstü\ödev3\Ayçiçeği Pansiyon Uygulaması v1.0\Ayçiçeği Pansiyon Uygulaması v1.0\obj\Debug\Ayçiçeği Pansiyon Uygulaması v1.0.exe
+C:\Users\hamza\OneDrive\Masaüstü\ödev3\Ayçiçeği Pansiyon Uygulaması v1.0\Ayçiçeği Pansiyon Uygulaması v1.0\obj\Debug\Ayçiçeği Pansiyon Uygulaması v1.0.pdb
+C:\Users\hamza\OneDrive\Masaüstü\ödev3\Ayçiçeği Pansiyon Uygulaması v1.0\Ayçiçeği Pansiyon Uygulaması v1.0\bin\Debug\Ayçiçeği Pansiyon Uygulaması v1.0.exe.config
+C:\Users\hamza\OneDrive\Masaüstü\ödev3\Ayçiçeği Pansiyon Uygulaması v1.0\Ayçiçeği Pansiyon Uygulaması v1.0\bin\Debug\Ayçiçeği Pansiyon Uygulaması v1.0.exe
+C:\Users\hamza\OneDrive\Masaüstü\ödev3\Ayçiçeği Pansiyon Uygulaması v1.0\Ayçiçeği Pansiyon Uygulaması v1.0\bin\Debug\Ayçiçeği Pansiyon Uygulaması v1.0.pdb
+C:\Users\hamza\OneDrive\Masaüstü\ödev3\Ayçiçeği Pansiyon Uygulaması v1.0\Ayçiçeği Pansiyon Uygulaması v1.0\bin\Debug\Interop.WMPLib.dll
+C:\Users\hamza\OneDrive\Masaüstü\ödev3\Ayçiçeği Pansiyon Uygulaması v1.0\Ayçiçeği Pansiyon Uygulaması v1.0\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\hamza\OneDrive\Masaüstü\AyçiçeğiÖdevi\Ayçiçeği Pansiyon Uygulaması v1.0\Ayçiçeği Pansiyon Uygulaması v1.0\obj\Debug\Ayçiçeği Pansiyon Uygulaması v1.0.csproj.AssemblyReference.cache
+C:\Users\hamza\OneDrive\Masaüstü\AyçiçeğiÖdevi\Ayçiçeği Pansiyon Uygulaması v1.0\Ayçiçeği Pansiyon Uygulaması v1.0\obj\Debug\Interop.WMPLib.dll
+C:\Users\hamza\OneDrive\Masaüstü\AyçiçeğiÖdevi\Ayçiçeği Pansiyon Uygulaması v1.0\Ayçiçeği Pansiyon Uygulaması v1.0\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\hamza\OneDrive\Masaüstü\AyçiçeğiÖdevi\Ayçiçeği Pansiyon Uygulaması v1.0\Ayçiçeği Pansiyon Uygulaması v1.0\obj\Debug\Ayçiçeği Pansiyon Uygulaması v1.0.csproj.ResolveComReference.cache
+C:\Users\hamza\OneDrive\Masaüstü\AyçiçeğiÖdevi\Ayçiçeği Pansiyon Uygulaması v1.0\Ayçiçeği Pansiyon Uygulaması v1.0\obj\Debug\Ayçiçeği_Pansiyon_Uygulaması_v1._0.FrmAdminGiris.resources
+C:\Users\hamza\OneDrive\Masaüstü\AyçiçeğiÖdevi\Ayçiçeği Pansiyon Uygulaması v1.0\Ayçiçeği Pansiyon Uygulaması v1.0\obj\Debug\Ayçiçeği_Pansiyon_Uygulaması_v1._0.FrmAnaForm.resources
+C:\Users\hamza\OneDrive\Masaüstü\AyçiçeğiÖdevi\Ayçiçeği Pansiyon Uygulaması v1.0\Ayçiçeği Pansiyon Uygulaması v1.0\obj\Debug\Ayçiçeği_Pansiyon_Uygulaması_v1._0.frmGazete.resources
+C:\Users\hamza\OneDrive\Masaüstü\AyçiçeğiÖdevi\Ayçiçeği Pansiyon Uygulaması v1.0\Ayçiçeği Pansiyon Uygulaması v1.0\obj\Debug\Ayçiçeği_Pansiyon_Uygulaması_v1._0.frmGelirGider.resources
+C:\Users\hamza\OneDrive\Masaüstü\AyçiçeğiÖdevi\Ayçiçeği Pansiyon Uygulaması v1.0\Ayçiçeği Pansiyon Uygulaması v1.0\obj\Debug\Ayçiçeği_Pansiyon_Uygulaması_v1._0.frmMesajlar.resources
+C:\Users\hamza\OneDrive\Masaüstü\AyçiçeğiÖdevi\Ayçiçeği Pansiyon Uygulaması v1.0\Ayçiçeği Pansiyon Uygulaması v1.0\obj\Debug\Ayçiçeği_Pansiyon_Uygulaması_v1._0.FrmMusteriler.resources
+C:\Users\hamza\OneDrive\Masaüstü\AyçiçeğiÖdevi\Ayçiçeği Pansiyon Uygulaması v1.0\Ayçiçeği Pansiyon Uygulaması v1.0\obj\Debug\Ayçiçeği_Pansiyon_Uygulaması_v1._0.FrmOdalar.resources
+C:\Users\hamza\OneDrive\Masaüstü\AyçiçeğiÖdevi\Ayçiçeği Pansiyon Uygulaması v1.0\Ayçiçeği Pansiyon Uygulaması v1.0\obj\Debug\Ayçiçeği_Pansiyon_Uygulaması_v1._0.frmRadyoDinle.resources
+C:\Users\hamza\OneDrive\Masaüstü\AyçiçeğiÖdevi\Ayçiçeği Pansiyon Uygulaması v1.0\Ayçiçeği Pansiyon Uygulaması v1.0\obj\Debug\Ayçiçeği_Pansiyon_Uygulaması_v1._0.frmSifreGuncelle.resources
+C:\Users\hamza\OneDrive\Masaüstü\AyçiçeğiÖdevi\Ayçiçeği Pansiyon Uygulaması v1.0\Ayçiçeği Pansiyon Uygulaması v1.0\obj\Debug\Ayçiçeği_Pansiyon_Uygulaması_v1._0.frmStoklar.resources
+C:\Users\hamza\OneDrive\Masaüstü\AyçiçeğiÖdevi\Ayçiçeği Pansiyon Uygulaması v1.0\Ayçiçeği Pansiyon Uygulaması v1.0\obj\Debug\Ayçiçeği_Pansiyon_Uygulaması_v1._0.FrmYeniMusteri.resources
+C:\Users\hamza\OneDrive\Masaüstü\AyçiçeğiÖdevi\Ayçiçeği Pansiyon Uygulaması v1.0\Ayçiçeği Pansiyon Uygulaması v1.0\obj\Debug\Ayçiçeği_Pansiyon_Uygulaması_v1._0.Properties.Resources.resources
+C:\Users\hamza\OneDrive\Masaüstü\AyçiçeğiÖdevi\Ayçiçeği Pansiyon Uygulaması v1.0\Ayçiçeği Pansiyon Uygulaması v1.0\obj\Debug\Ayçiçeği Pansiyon Uygulaması v1.0.csproj.GenerateResource.cache
+C:\Users\hamza\OneDrive\Masaüstü\AyçiçeğiÖdevi\Ayçiçeği Pansiyon Uygulaması v1.0\Ayçiçeği Pansiyon Uygulaması v1.0\obj\Debug\Ayçiçeği Pansiyon Uygulaması v1.0.csproj.CoreCompileInputs.cache
+C:\Users\hamza\OneDrive\Masaüstü\AyçiçeğiÖdevi\Ayçiçeği Pansiyon Uygulaması v1.0\Ayçiçeği Pansiyon Uygulaması v1.0\obj\Debug\Ayçiçeği Pansiyon Uygulaması v1.0.exe
+C:\Users\hamza\OneDrive\Masaüstü\AyçiçeğiÖdevi\Ayçiçeği Pansiyon Uygulaması v1.0\Ayçiçeği Pansiyon Uygulaması v1.0\obj\Debug\Ayçiçeği Pansiyon Uygulaması v1.0.pdb
+C:\Users\hamza\OneDrive\Masaüstü\AyçiçeğiÖdevi\Ayçiçeği Pansiyon Uygulaması v1.0\Ayçiçeği Pansiyon Uygulaması v1.0\bin\Debug\Ayçiçeği Pansiyon Uygulaması v1.0.exe.config
+C:\Users\hamza\OneDrive\Masaüstü\AyçiçeğiÖdevi\Ayçiçeği Pansiyon Uygulaması v1.0\Ayçiçeği Pansiyon Uygulaması v1.0\bin\Debug\Ayçiçeği Pansiyon Uygulaması v1.0.exe
+C:\Users\hamza\OneDrive\Masaüstü\AyçiçeğiÖdevi\Ayçiçeği Pansiyon Uygulaması v1.0\Ayçiçeği Pansiyon Uygulaması v1.0\bin\Debug\Ayçiçeği Pansiyon Uygulaması v1.0.pdb
+C:\Users\hamza\OneDrive\Masaüstü\AyçiçeğiÖdevi\Ayçiçeği Pansiyon Uygulaması v1.0\Ayçiçeği Pansiyon Uygulaması v1.0\bin\Debug\Interop.WMPLib.dll
+C:\Users\hamza\OneDrive\Masaüstü\AyçiçeğiÖdevi\Ayçiçeği Pansiyon Uygulaması v1.0\Ayçiçeği Pansiyon Uygulaması v1.0\bin\Debug\AxInterop.WMPLib.dll
